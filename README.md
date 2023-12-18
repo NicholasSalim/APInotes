@@ -1,3 +1,3 @@
 # REST API untuk Tubes Praktikum Pemrograman Mobile
 
-Link aplikasi Android : https://github.com/NicholasSalim/TubesPraktikumMobile
+Link aplikasi Android : https://github.com/NicholasSalim/TubesPrakMobile

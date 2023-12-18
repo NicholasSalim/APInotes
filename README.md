@@ -1,2 +1,3 @@
-# APInotes
-API untuk tubes praktikum mobile
+# REST API untuk Tubes Praktikum Pemrograman Mobile
+
+Link aplikasi Android : https://github.com/NicholasSalim/tubesprakmobile
